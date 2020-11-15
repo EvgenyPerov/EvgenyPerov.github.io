@@ -1,3 +1,3 @@
 # EvgenyPerov.github.io
-Hello friends.
+friends.
 This is my first expiriece in GIT.
